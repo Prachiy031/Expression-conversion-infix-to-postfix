@@ -1,3 +1,11 @@
+/*
+o/P:
+enter infix expression :4^2+6-7
+ 42^6+7-
+evaluated data is  : 15
+
+*/
+
 #include <stdio.h>
 #include<stdio.h>
 #include<limits.h>
