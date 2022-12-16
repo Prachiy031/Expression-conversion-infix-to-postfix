@@ -6,7 +6,6 @@ evaluated data is  : 15
 
 */
 
-#include <stdio.h>
 #include<stdio.h>
 #include<limits.h>
 #include<stdlib.h>
